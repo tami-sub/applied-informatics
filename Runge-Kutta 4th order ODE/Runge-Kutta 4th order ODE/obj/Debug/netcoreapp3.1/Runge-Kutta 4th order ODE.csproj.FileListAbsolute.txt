@@ -1,0 +1,10 @@
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.exe
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.deps.json
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.runtimeconfig.json
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.dll
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\bin\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.pdb
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\obj\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\obj\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.AssemblyInfo.cs
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\obj\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.dll
+C:\Users\ment2\source\repos\Runge-Kutta 4th order ODE\Runge-Kutta 4th order ODE\obj\Debug\netcoreapp3.1\Runge-Kutta 4th order ODE.pdb
