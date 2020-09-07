@@ -1,0 +1,11 @@
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.exe
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.deps.json
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.runtimeconfig.json
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.dll
+C:\Users\ment2\source\repos\DFS\DFS\bin\Debug\netcoreapp3.1\DFS.pdb
+C:\Users\ment2\source\repos\DFS\DFS\obj\Debug\netcoreapp3.1\DFS.csprojAssemblyReference.cache
+C:\Users\ment2\source\repos\DFS\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\DFS\DFS\obj\Debug\netcoreapp3.1\DFS.AssemblyInfo.cs
+C:\Users\ment2\source\repos\DFS\DFS\obj\Debug\netcoreapp3.1\DFS.dll
+C:\Users\ment2\source\repos\DFS\DFS\obj\Debug\netcoreapp3.1\DFS.pdb

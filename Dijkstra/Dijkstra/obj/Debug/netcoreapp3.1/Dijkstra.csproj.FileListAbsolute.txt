@@ -1,0 +1,11 @@
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.exe
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.deps.json
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.json
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.runtimeconfig.dev.json
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\bin\Debug\netcoreapp3.1\Dijkstra.pdb
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.csprojAssemblyReference.cache
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfoInputs.cache
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.AssemblyInfo.cs
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.dll
+C:\Users\ment2\source\repos\Dijkstra\Dijkstra\obj\Debug\netcoreapp3.1\Dijkstra.pdb
